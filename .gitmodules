@@ -1,0 +1,3 @@
+[submodule "open-education-backend"]
+	path = open-education-backend
+	url = https://github.com/SamuelB7/open-education-backend
